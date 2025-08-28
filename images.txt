@@ -1,1 +1,1 @@
---platform=linux/amd64 chishin/nginx-proxy-manager-zh:release
+vikiboss/60s:latest
